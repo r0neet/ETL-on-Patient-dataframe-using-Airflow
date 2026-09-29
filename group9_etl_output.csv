@@ -1,0 +1,6 @@
+Patient_ID,Patient_Name,Age,Gender,Blood_Type,Medical_Condition,Last_Visit_Date,Status,Total_Matching_Patients
+PT-1041,Robert Wilson,53,Male,A+,Anxiety,2026-03-21,Recovered,5
+PT-1042,Jennifer Anderson,72,Other,A+,Diabetes,2026-02-23,Under Treatment,5
+PT-1066,Mary Miller,71,Female,A+,Obesity,2026-08-01,Recovered,5
+PT-1076,Sandra Martin,33,Other,A+,Anxiety,2026-09-14,Recovered,5
+PT-1095,Anthony Martin,78,Female,A+,Hyperlipidemia,2026-05-23,Recovered,5

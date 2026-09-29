@@ -1,0 +1,14 @@
+GROUP 9 ETL RESULT
+==================
+
+Validation columns:
+1. Blood_Type
+2. Status
+3. Age
+4. Last_Visit_Date
+
+Transformation condition:
+Blood_Type = "A+ve"
+AND Status = "Under Treatment" OR "Recovered"
+
+Total matching patients: 5
